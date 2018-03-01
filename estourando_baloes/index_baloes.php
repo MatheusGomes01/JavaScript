@@ -20,7 +20,7 @@
 			</p>
 
 			<br />
-			<img src="imagens/iniciar.png" onclick="">
+			<img src="imagens/iniciar.png" onclick="iniciajogo()" />
 		</div>
 	</body>
 </html>
